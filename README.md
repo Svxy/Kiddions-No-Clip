@@ -8,7 +8,7 @@
 
 <h2 align=center>Usage:</h2>
 
-> - ### Simply download the script from the releases page, put it in kiddions "scripts" folder, go into menu settings and select "Reload Scripts". Then go into the scripts submenu.s
+> - ### Simply download the script from the releases page, put it in kiddions "scripts" folder, go into menu settings and select "Reload Scripts". Then go into the scripts submenu.
 
 <br>
 
