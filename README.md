@@ -18,35 +18,35 @@
 
 <p align=center>
 
-Toggle: <kbd>Del</kbd> 
+<p align=center>Toggle: <kbd>Del</kbd></p>
 
-<br><br> 
+<br>
 
-Up: <kbd>Shift</kbd> 
+<p align=center>Up: <kbd>Shift</kbd></p>
 
-<br><br> 
+<br>
 
-Down: <kbd>Ctrl</kbd> 
+<p align=center>Down: <kbd>Ctrl</kbd></p>
 
-<br><br>
+<br>
 
-Forward: <kbd>W</kbd>
+<p align=center>Forward: <kbd>W</kbd></p>
 
-<br><br>
+<br>
 
-Backward: <kbd>S</kbd>
+<p align=center>Backward: <kbd>S</kbd></p>
 
-<br><br>
+<br>
 
-Left: <kbd>A</kbd>
+<p align=center>Left: <kbd>A</kbd></p>
 
-<br><br>
+<br>
 
-Right: <kbd>D</kbd>
+<p align=center>Right: <kbd>D</kbd></p>
 
-<br><br>
+<br>
 
-Increase/Decrease Speed: <kbd>+</kbd> / <kbd>-</kbd> (Or simply use the speed selector)
+<p align=center>Increase/Decrease Speed: <kbd>+</kbd> / <kbd>-</kbd> (Or simply use the speed selector)</p>
 
 </p>
 
